@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MSKS_EIS_test_project.props" />
+</Project>
