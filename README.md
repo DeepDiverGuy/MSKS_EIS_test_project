@@ -1,4 +1,5 @@
 # MSKS_EIS_test_project
+This project is created solely for EunoiaITS Internship Program 
 
 # Protection 
 This is a password protected web app
@@ -29,14 +30,15 @@ This is a password protected web app
     - Name
     - Contact Number
     - Email Address
-- Actions
-    - View
-    - Edit
-    -  Delete
+    - Actions
+        - View
+        - Edit
+        -  Delete
 
  # Project Doesn't Contain
 - JQuery, because:
-    - Struggled for 4 days just to solve a stupid Microsoft Visual Studio Installation problem (.NET Sdk PATH). Totally on Microsoft.
-    - Didn't have prior knowledge
+    - Struggled for 2 days for hardware issues & another 2 days just to solve a stupid Microsoft Visual Studio Installation problem (.NET Sdk PATH). Totally on Microsoft.
+    - Didn't have prior knowledge. Takes time to figure out.
     - So, I didn't get enough time. I did all the coding in 1 night only.
+    - I believe, if given more time, I could do it.
   
